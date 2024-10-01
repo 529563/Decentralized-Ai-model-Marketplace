@@ -1,6 +1,4 @@
-Here’s a shortened version of your `README.md` file, focusing on the essential commands and removing unnecessary details:
 
-```markdown
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
